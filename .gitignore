@@ -1,0 +1,39 @@
+# Sensitive files
+.env
+*.key
+*.pem
+*.secret
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.ipynb_checkpoints/
+venv/
+env/
+.env/
+*.venv
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*~
+
+# Testing and coverage
+.coverage
+coverage.xml
+nosetests.xml
+*.cover
+
+state.json
+images
