@@ -8,7 +8,7 @@ Here's an example of a real image found on Bitcoin using this tool:
 
 You can discover images like this and more using the search and scan commands below!
 
-# Bitcoin Meme Miner 🧙‍♂️🐒📸"
+# Bitcoin Meme Miner 🧙‍♂️🐒📸
 
 **A Totally Serious Tool to Prove Bitcoin Censorship is a Pipe Dream!**
 
